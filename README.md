@@ -79,6 +79,16 @@ These papers were screened as directly relevant to quantum graph learning or qua
 | QGHNN: A Quantum Graph Hamiltonian Neural Network | 2026 | IEEE | Wenxuan Wang; Jinjing Shi; Nan Guan; Shichao Zhang; Xuelong Li | [DOI](https://doi.org/10.1109/TETCI.2025.3604791) | Qgraph |
 | Enable Quantum Graph Neural Networks on a Single Qubit With Quantum Walk | 2026 | IEEE | Yijie Zhu; Richard Jiang; Qiang Ni; Ahmed Bouridane | [DOI](https://doi.org/10.1109/TAI.2025.3592896) | Qgraph |
 
+### Additional screened literature
+
+| title | year | publisher | Author | link | category |
+|---|---:|---|---|---|---|
+| Permutation-Invariant Quantum Graph Neural Network Based on Variational Quantum Algorithms | 2026 | IEEE | Maoduo Li; Wen Liu; Lei Shi; Yangzhi Li; Weiping Ding | [DOI](https://doi.org/10.1109/TNNLS.2026.3709916) | Qgraph |
+| Feature prediction in quantum graph recurrent neural networks with applications in information hiding | 2026 | Springer Nature | Jawaher Kaldari; Saif Al-Kuwari | [DOI](https://doi.org/10.1007/s11128-026-05069-5) | Qgraph |
+| Representational efficiency and noise robustness in hybrid quantum-classical graph neural networks | 2026 | Springer Nature | Istiyak Amin Santo; Hasanul Bannah; Md Serajun Nabi et al. | [DOI](https://doi.org/10.1007/s44464-026-00025-9) | Qgraph |
+| Single-qubit graph classifier with classical feature aggregation | 2026 | Elsevier | Shaochun Li; Junzhi Cui; Jingli Ren | [DOI](https://doi.org/10.1016/j.neunet.2026.108775) | Qgraph |
+| A Laplacian-based quantum graph neural networks for quantum semi-supervised learning | 2025 | Springer Nature | Hamed Gholipour et al. | [DOI](https://doi.org/10.1007/s11128-025-04725-6) | Qgraph |
+
 ## 🔗 Cross-References
 - [Quantum Computing Fundamentals](https://github.com/Q-brain/awesome-QAI-Papers-QComputing)  
 - [Quantum Machine Learning](https://github.com/Q-brain/awesome-QAI-Papers-QML)  
