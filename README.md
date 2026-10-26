@@ -1,17 +1,17 @@
 # 🔄 Quantum Graph Learning (QGraph) Papers
 
-This section of the **Quantum AI Papers** repository focuses on **Quantum Graph Learning (QGraph)**.  
-QTL leverages knowledge from pre-trained quantum or hybrid quantum-classical models and adapts it to new tasks or domains. This paradigm plays a crucial role in overcoming limitations of small datasets, reducing training costs, and accelerating the deployment of quantum-enhanced AI systems.  
+This section of the **Quantum AI Papers** repository focuses on **Quantum Graph Learning (QGraph)**: quantum and hybrid quantum-classical methods for representing, learning from, and reasoning over graph-structured data.  
+The collection covers quantum graph neural networks, graph kernels, graph embeddings, graphon learning, quantum walks, Hamiltonian representations, and the mathematical foundations of quantum graphs.  
 
 ---
 
 ## 📚 Scope
 Research papers in this category explore:
-- Transfer of learned quantum circuit parameters between tasks  
-- Hybrid classical–quantum transfer learning frameworks  
-- Applications of QTL in physics, chemistry, medical imaging, and natural language processing  
-- Optimization strategies to mitigate issues such as barren plateaus  
-- Cross-domain transfer of quantum models for practical real-world problems  
+- Quantum graph neural networks, graph convolution, graph transformers, and graph kernels  
+- Quantum and hybrid embeddings for node, edge, graph, graphon, and knowledge-graph learning  
+- Quantum walks, Hamiltonian dynamics, graph isomorphism, automorphisms, and graph circuits  
+- Expressivity, trainability, noise robustness, scalability, and hardware-aware graph learning  
+- Applications to molecular, social, financial, physical, and other relational datasets  
 
 ---
 
@@ -67,6 +67,17 @@ Research papers in this category explore:
 
 
 ---
+
+## 🆕 Newly added and verified literature (2026)
+
+These papers were screened as directly relevant to quantum graph learning or quantum graph neural-network research. Papers about ordinary graph learning without a substantive quantum component were excluded.
+
+| title | year | publisher | Author | link | category |
+|---|---:|---|---|---|---|
+| From graphs to qubits: a critical review of quantum graph neural networks | 2026 | Springer Nature | Andrea Ceschini et al. | [DOI](https://doi.org/10.1007/s00521-026-12428-x) | Qgraph |
+| Unveiling the nature of graphs through quantum graphon learning | 2026 | Springer Nature | Wenbo Qiao; Peng Zhang; Jiaming Zhao; Shi-Ju Ran | [DOI](https://doi.org/10.1038/s41534-025-01141-7) | Qgraph |
+| QGHNN: A Quantum Graph Hamiltonian Neural Network | 2026 | IEEE | Wenxuan Wang; Jinjing Shi; Nan Guan; Shichao Zhang; Xuelong Li | [DOI](https://doi.org/10.1109/TETCI.2025.3604791) | Qgraph |
+| Enable Quantum Graph Neural Networks on a Single Qubit With Quantum Walk | 2026 | IEEE | Yijie Zhu; Richard Jiang; Qiang Ni; Ahmed Bouridane | [DOI](https://doi.org/10.1109/TAI.2025.3592896) | Qgraph |
 
 ## 🔗 Cross-References
 - [Quantum Computing Fundamentals](https://github.com/Q-brain/awesome-QAI-Papers-QComputing)  
